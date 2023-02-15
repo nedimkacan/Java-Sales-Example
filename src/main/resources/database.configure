@@ -1,0 +1,4 @@
+db_driver=com.mysql.jdbc.Driver
+db_url=jdbc:mysql://localhost/sales
+db_user=root
+db_password=
